@@ -1,0 +1,10 @@
+C:\Users\soak\source\repos\WpfLoginChat\WpfLoginChat.Core\bin\Debug\WpfLoginChat.Core.dll
+C:\Users\soak\source\repos\WpfLoginChat\WpfLoginChat.Core\bin\Debug\WpfLoginChat.Core.pdb
+C:\Users\soak\source\repos\WpfLoginChat\WpfLoginChat.Core\obj\Debug\WpfLoginChat.Core.csprojAssemblyReference.cache
+C:\Users\soak\source\repos\WpfLoginChat\WpfLoginChat.Core\obj\Debug\WpfLoginChat.Core.csproj.CoreCompileInputs.cache
+C:\Users\soak\source\repos\WpfLoginChat\WpfLoginChat.Core\obj\Debug\WpfLoginChat.Core.dll
+C:\Users\soak\source\repos\WpfLoginChat\WpfLoginChat.Core\obj\Debug\WpfLoginChat.Core.pdb
+C:\Users\soak\source\repos\WpfLoginChat\WpfLoginChat.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\soak\source\repos\WpfLoginChat\WpfLoginChat.Core\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\soak\source\repos\WpfLoginChat\WpfLoginChat.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\soak\source\repos\WpfLoginChat\WpfLoginChat.Core\obj\Debug\WpfLoginChat.Core.csproj.CopyComplete

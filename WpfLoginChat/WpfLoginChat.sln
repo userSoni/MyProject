@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLoginChat", "WpfLoginChat\WpfLoginChat.csproj", "{817AFEDA-2B04-4D8A-9BC5-045B63A8D125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLoginChat.Core", "WpfLoginChat.Core\WpfLoginChat.Core.csproj", "{A672B0B5-6EC3-4A0E-A844-B39CD7C26C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{817AFEDA-2B04-4D8A-9BC5-045B63A8D125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817AFEDA-2B04-4D8A-9BC5-045B63A8D125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817AFEDA-2B04-4D8A-9BC5-045B63A8D125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817AFEDA-2B04-4D8A-9BC5-045B63A8D125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A672B0B5-6EC3-4A0E-A844-B39CD7C26C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A672B0B5-6EC3-4A0E-A844-B39CD7C26C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A672B0B5-6EC3-4A0E-A844-B39CD7C26C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A672B0B5-6EC3-4A0E-A844-B39CD7C26C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E474415-DB7B-4B6B-BEA6-96CB52C3B9AF}
+	EndGlobalSection
+EndGlobal
